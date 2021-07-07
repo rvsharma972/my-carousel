@@ -1,0 +1,19 @@
+.topbar {
+  padding: 10px;
+  box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+}
+
+.company-logo {
+  height: 65px;
+}
+
+.login-button {
+  cursor: pointer;
+  float: right;
+  background: #6ddafb;
+  padding: 12px 35px;
+  border-radius: 2px;
+  border: 0;
+  color: #fff;
+  margin-top: 12px;
+}
